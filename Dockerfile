@@ -2,7 +2,7 @@ FROM trafex/php-nginx:2.6.0
 
 USER root
 
-RUN apk add --no-cache php7-gettext php7-ldap
+RUN apk add --no-cache php81-gettext php81-ldap
 
 USER nobody
 
