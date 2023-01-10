@@ -1,5 +1,6 @@
-[![GitHub release](https://img.shields.io/github/v/release/colibris-xyz/phpldapadmin-docker.svg?style=flat)](https://github.com/colibris-xyz/phpldapadmin-docker/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/colibris-xyz/phpldapadmin-docker)](https://github.com/colibris-xyz/phpldapadmin-docker/blob/main/LICENSE)
+[![Releases](https://img.shields.io/gitlab/v/tag/colibris-xyz/phpldapadmin-docker?gitlab_url=https%3A%2F%2Fframagit.org)](https://framagit.org/colibris-xyz/phpldapadmin-docker/-/releases)
+[![Build status](https://img.shields.io/gitlab/pipeline-status/colibris-xyz/phpldapadmin-docker?branch=main&gitlab_url=https%3A%2F%2Fframagit.org)](https://framagit.org/colibris-xyz/phpldapadmin-docker/-/pipelines)
+[![License](https://img.shields.io/gitlab/license/colibris-xyz/phpldapadmin-docker?gitlab_url=https%3A%2F%2Fframagit.org)](https://framagit.org/colibris-xyz/phpldapadmin-docker/-/blob/main/LICENSE)
 
 # All-in-one (nginx + php-fpm) Docker image for phpLDAPadmin
 
