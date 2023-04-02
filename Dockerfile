@@ -6,7 +6,7 @@ RUN apk add --no-cache php7-gettext php7-ldap
 
 USER nobody
 
-ARG PHPLDAPADMIN_VERSION=1.2.6.5
+ARG PHPLDAPADMIN_VERSION=1.2.6.6
 
 RUN curl -L https://github.com/leenooks/phpLDAPadmin/archive/${PHPLDAPADMIN_VERSION}.tar.gz | tar -xz -C /tmp \
     && mv /tmp/phpLDAPadmin-${PHPLDAPADMIN_VERSION}/* /var/www/html/ \
